@@ -1,0 +1,28 @@
+name: displayit
+favicon: null
+layout_spectrum: 0.49790576519444585
+typography_spectrum: 0.22106029326096177
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7420017111580819
+  lightness: 0.12493823631666601
+  saturation: 0.578558184672147
+  rhythmicContrast: 0.33136790757998824
+purpose: []
